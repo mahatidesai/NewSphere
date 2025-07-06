@@ -4,7 +4,7 @@
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Axios](https://img.shields.io/badge/Axios-API--Fetching-success)](https://axios-http.com/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ## Available Scripts
 
